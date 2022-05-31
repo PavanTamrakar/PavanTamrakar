@@ -1,7 +1,7 @@
 # Hi there, I'm Pavan👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavanTamrakar&label=Views&color=blue&style=plastic" alt="PavanTamrakar" /> </p>
 
-[![website](./img/linkedin.svg)](https://www.linkedin.com/company/blotic/mycompany/)
+[![Community](https://img.shields.io/badge/Community-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/blotic/mycompany/)
 
 ## About Me🚀
 
