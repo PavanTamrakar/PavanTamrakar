@@ -26,12 +26,12 @@ Working hard on building a web3 community(Blotic) to educate other and show them
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/PavanT28)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/PavanT28)
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pavan-tamrakar-38053220a/)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pavan-tamrakar-38053220a/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/thepavantamrakar)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/thepavantamrakar)
 
 <br />
 <br />
