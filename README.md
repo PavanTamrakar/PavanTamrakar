@@ -26,8 +26,7 @@ Working hard on building a web3 community(Blotic) to educate other and show them
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![Twitter](![image](https://user-images.githubusercontent.com/72463719/171259675-b4f58eab-c19a-4262-b7e0-5e8c8d5eebe5.png)
-)](https://twitter.com/PavanT28)
+[![Twitter](![image](https://user-images.githubusercontent.com/72463719/171259675-b4f58eab-c19a-4262-b7e0-5e8c8d5eebe5.png))](https://twitter.com/PavanT28)
 
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pavan-tamrakar-38053220a/)
