@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan👋
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/blotic/mycompany/)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/company/blotic/mycompany/)
 
 ## About Me🚀
 
