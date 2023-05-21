@@ -15,6 +15,8 @@ My programmer journey was so unexpected, from AI&ML I came across web3&blockchai
 
 Working hard on building a web3 community(Blotic) to educate other and show them what Blockchain/web3 can really do!
 
+Beside this i'm a Blockchain Dev, Polygon Advocate, and Co-Lead of Polygon Guild Pune
+
 ## I'm a Learner, Developer, and Student!!
 
 - 🌱 I’m currently diving deep into web3 
